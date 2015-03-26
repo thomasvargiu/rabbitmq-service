@@ -1,0 +1,12 @@
+{
+  "name": "thomasvargiu/rabbitmq-service",
+  "description": "A wrapper to use RabbitMq",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Thomas Vargiu",
+      "email": "tommy@ttech.it"
+    }
+  ]
+}
